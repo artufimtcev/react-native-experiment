@@ -10,6 +10,7 @@ const RootNavigator = StackNavigator({
       header: null
     })
   },
+
   Constellations: {
     screen: ConstellationsScreen,
     navigationOptions: () => ({
